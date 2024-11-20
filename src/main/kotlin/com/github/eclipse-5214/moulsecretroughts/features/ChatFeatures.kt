@@ -1,7 +1,7 @@
-package com.example.features
+package com.github.eclipse-5214.moulsecretroughts.features
 
-import com.example.ExampleMod
-import com.example.utils.ChatUtils
+import com.github.eclipse-5214.moulsecretroughts.ExampleMod
+import com.github.eclipse-5214.moulsecretroughts.utils.ChatUtils
 import net.minecraftforge.client.event.ClientChatReceivedEvent
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent
 
